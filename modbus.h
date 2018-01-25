@@ -11,6 +11,8 @@
       Declarations communes
 ------------------------------------------*/
 
+// test du jeudi
+
 #include "Arduino.h"
 
 //---- definitions de l'esclave modbus
